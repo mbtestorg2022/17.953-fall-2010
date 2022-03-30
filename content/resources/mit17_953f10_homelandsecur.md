@@ -5,6 +5,7 @@ description: Lecture presentation on homeland security, federal budgets for home
   toward the promise, what went wrong, and recommended remedies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-953-u-s-budgets-for-national-security-fall-2010/e14fb02898b771be8c0649be6dad3d55_MIT17_953F10_HomelandSecur.pdf
 file_type: application/pdf
+parent_uid: c7fe115d-d6a2-0ea0-34ef-69c56c8dcee9
 resourcetype: Document
 title: U.S. Budgets for Homeland Security
 uid: e14fb028-98b7-71be-8c06-49be6dad3d55
